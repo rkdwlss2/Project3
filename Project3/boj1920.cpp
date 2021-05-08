@@ -23,7 +23,7 @@ bool para(lli m) {
 			return true;
 	}
 	return false;
-}//test
+}
 int main() {
 	ios::sync_with_stdio(0);
 	cin.tie(0);
