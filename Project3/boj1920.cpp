@@ -38,6 +38,6 @@ int main() {
 		lli tmp;
 		cin >> tmp;
 		if (para(tmp))cout << 1 << '\n';
-		else cout << 0 << '\n';
+		else cout << 0 << '\n';//good
 	}
 }
