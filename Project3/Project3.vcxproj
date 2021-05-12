@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -150,10 +150,12 @@
     <ClCompile Include="boj18405.cpp" />
     <ClCompile Include="boj1920.cpp" />
     <ClCompile Include="BOJ20061.cpp" />
+    <ClCompile Include="boj21608.cpp" />
     <ClCompile Include="boj2503.cpp" />
     <ClCompile Include="boj2631.cpp" />
     <ClCompile Include="boj2718.cpp" />
     <ClCompile Include="boj2902.cpp" />
+    <ClCompile Include="boj3273.cpp" />
     <ClCompile Include="ka2.cpp" />
     <ClCompile Include="ka3.cpp" />
     <ClCompile Include="ka4.cpp" />
