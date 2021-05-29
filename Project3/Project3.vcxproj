@@ -144,6 +144,7 @@
     <ClCompile Include="boj11650.cpp" />
     <ClCompile Include="boj11651.cpp" />
     <ClCompile Include="boj1259.cpp" />
+    <ClCompile Include="boj13398.cpp" />
     <ClCompile Include="boj1406.cpp" />
     <ClCompile Include="boj1517.cpp" />
     <ClCompile Include="boj16936.cpp" />
@@ -161,6 +162,7 @@
     <ClCompile Include="boj2902.cpp" />
     <ClCompile Include="boj3036.cpp" />
     <ClCompile Include="boj3273.cpp" />
+    <ClCompile Include="boj4195.cpp" />
     <ClCompile Include="ka2.cpp" />
     <ClCompile Include="ka3.cpp" />
     <ClCompile Include="ka4.cpp" />
