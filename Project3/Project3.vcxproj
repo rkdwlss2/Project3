@@ -139,6 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="boj1016.cpp" />
+    <ClCompile Include="boj10162.cpp" />
     <ClCompile Include="boj10814.cpp" />
     <ClCompile Include="boj10825.cpp" />
     <ClCompile Include="boj10972.cpp" />
