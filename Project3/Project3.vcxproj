@@ -171,6 +171,7 @@
     <ClCompile Include="boj3036.cpp" />
     <ClCompile Include="boj3273.cpp" />
     <ClCompile Include="boj4195.cpp" />
+    <ClCompile Include="boj9465.cpp" />
     <ClCompile Include="ka2.cpp" />
     <ClCompile Include="ka3.cpp" />
     <ClCompile Include="ka4.cpp" />
