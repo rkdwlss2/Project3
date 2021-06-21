@@ -141,6 +141,7 @@
     <ClCompile Include="boj1016.cpp" />
     <ClCompile Include="boj10162.cpp" />
     <ClCompile Include="boj1032.cpp" />
+    <ClCompile Include="boj1039.cpp" />
     <ClCompile Include="boj1076.cpp" />
     <ClCompile Include="boj10814.cpp" />
     <ClCompile Include="boj10825.cpp" />
