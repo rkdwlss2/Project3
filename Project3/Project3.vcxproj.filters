@@ -309,5 +309,17 @@
     <ClCompile Include="boj2752.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="proFilenamesort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="proRankQuery.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="proGo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="boj10867.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -141,6 +141,7 @@
     <ClCompile Include="boj1009.cpp" />
     <ClCompile Include="boj1016.cpp" />
     <ClCompile Include="boj10162.cpp" />
+    <ClCompile Include="boj10867.cpp" />
     <ClCompile Include="boj1032.cpp" />
     <ClCompile Include="boj1039-2.cpp" />
     <ClCompile Include="boj1039.cpp" />
@@ -231,6 +232,9 @@
     <ClCompile Include="ka3.cpp" />
     <ClCompile Include="ka4.cpp" />
     <ClCompile Include="ka5.cpp" />
+    <ClCompile Include="proFilenamesort.cpp" />
+    <ClCompile Include="proGo.cpp" />
+    <ClCompile Include="proRankQuery.cpp" />
     <ClCompile Include="test1.cpp" />
     <ClCompile Include="test2.cpp" />
     <ClCompile Include="소스.cpp" />
