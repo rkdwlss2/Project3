@@ -210,6 +210,7 @@
     <ClCompile Include="boj2607.cpp" />
     <ClCompile Include="boj2608.cpp" />
     <ClCompile Include="boj2631.cpp" />
+    <ClCompile Include="boj2661.cpp" />
     <ClCompile Include="boj2688.cpp" />
     <ClCompile Include="boj2711.cpp" />
     <ClCompile Include="boj2718.cpp" />
