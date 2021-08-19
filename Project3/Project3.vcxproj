@@ -241,6 +241,7 @@
     <ClCompile Include="ka5.cpp" />
     <ClCompile Include="proFilenamesort.cpp" />
     <ClCompile Include="proGo.cpp" />
+    <ClCompile Include="proGrid.cpp" />
     <ClCompile Include="proRankQuery.cpp" />
     <ClCompile Include="test1.cpp" />
     <ClCompile Include="test2.cpp" />
