@@ -195,6 +195,7 @@
     <ClCompile Include="boj18405.cpp" />
     <ClCompile Include="boj1920.cpp" />
     <ClCompile Include="boj1927.cpp" />
+    <ClCompile Include="boj1939.cpp" />
     <ClCompile Include="boj19532.cpp" />
     <ClCompile Include="boj1969.cpp" />
     <ClCompile Include="boj2003.cpp" />
