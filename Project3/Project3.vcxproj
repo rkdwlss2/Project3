@@ -182,6 +182,7 @@
     <ClCompile Include="boj13163.cpp" />
     <ClCompile Include="boj13398.cpp" />
     <ClCompile Include="boj1342.cpp" />
+    <ClCompile Include="boj1351.cpp" />
     <ClCompile Include="boj1371.cpp" />
     <ClCompile Include="boj13752.cpp" />
     <ClCompile Include="boj13913-2.cpp" />
