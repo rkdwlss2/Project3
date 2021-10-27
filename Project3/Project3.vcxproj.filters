@@ -537,5 +537,8 @@
     <ClCompile Include="boj5566.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="boj1302.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
