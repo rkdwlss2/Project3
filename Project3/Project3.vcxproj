@@ -255,6 +255,7 @@
     <ClCompile Include="boj2696.cpp" />
     <ClCompile Include="boj2711.cpp" />
     <ClCompile Include="boj2718.cpp" />
+    <ClCompile Include="boj2745.cpp" />
     <ClCompile Include="boj2747.cpp" />
     <ClCompile Include="boj2752.cpp" />
     <ClCompile Include="boj2754.cpp" />
@@ -304,6 +305,9 @@
     <ClCompile Include="LINEtEST.cpp" />
     <ClCompile Include="lineTest3.cpp" />
     <ClCompile Include="lineTest4.cpp" />
+    <ClCompile Include="nhn2.cpp" />
+    <ClCompile Include="nhn3.cpp" />
+    <ClCompile Include="nhntest1.cpp" />
     <ClCompile Include="proFilenamesort.cpp" />
     <ClCompile Include="proGo.cpp" />
     <ClCompile Include="proGrid.cpp" />
